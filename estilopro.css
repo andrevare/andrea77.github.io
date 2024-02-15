@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.tex{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 50px;
+}
+
+.pro1{
+  position: relative;
+  top: 200px;
+  left: 200px;
+}
+
+.pro2{
+    position: relative;
+    top:0px;
+    left: 600px;
+  }
+
+  .pro3{
+    position: relative;
+    bottom: 205px;
+    left: 1000px;
+  }
+
+  .pro4{
+    position: relative;
+    bottom: 50px;
+    left: 200px;
+  }
+
+  .pro5{
+    position: relative;
+    bottom: 260px;
+    left: 600px;
+  }
+
+
+  .pro6{
+    position: relative;
+    bottom: 470px;
+    left: 1000px;
+  }
+
+  .pro7{
+    position: relative;
+    bottom: 290px;
+    left: 200px;
+  }
+
+  .pro8{
+    position: relative;
+    bottom: 494px;
+    left: 600px;
+  }
+
+  .pro9{
+    position: relative;
+    bottom: 700px;
+    left: 1000px;
+  }
+
+  .pro10{
+    position: relative;
+    bottom: 500px;
+    left: 200px;
+  }
+
+  .pro11{
+    position: relative;
+    bottom: 700px;
+    left: 600px;
+  }
+
+  .pro12{
+    position: relative;
+    bottom: 900px;
+    left: 1000px;
+  }
+
+  .pro13{
+    position: relative;
+    top: 200px;
+    right: 400px;
+  }
+
+  
+
+
+
+   .profes{
+    background-color: rgb(230, 252, 236);
+    font-size:small;
+    height: 70px;
+    width: 200px;
+   }
+
+.primero{
+    position: relative;
+    bottom: 2200px;
+    left: 200px;
+}
+.segundo{
+  position: relative;
+  bottom: 2280px;
+  left: 600px;
+}
+.tercero{
+  position: relative;
+  bottom: 2350px;
+  left: 1000px;
+}
+.cuarto{
+  position: relative;
+  bottom: 2100px;
+  left: 200px;
+}
+.quinto{
+  position: relative;
+  bottom: 2170px;
+  left: 600px;
+}
+.sexto{
+  position: relative;
+  bottom: 2260px;
+  left: 1000px;
+}
+.septimo{
+position: relative;
+ bottom: 1900px; 
+ left: 200px;
+}
+.octavo{
+position: relative;
+bottom: 2000px;
+left: 600px;
+}
+.noveno{
+  position: relative;
+  bottom: 2050px;
+  left: 1000px;
+}
+
+.decimo{
+  position: relative;
+  bottom: 1700px;
+  left: 200px;
+}
+
+.once{
+  position: relative;
+  bottom: 1800px;
+  left: 600px;
+}
+
+.doce{
+  position: relative;
+  bottom: 1900px;
+  left: 1000px;
+}
+.trece{
+  position: relative;
+  top: 400px;
+  right: 400px;
+  
+}
+
+
+
+
+
+

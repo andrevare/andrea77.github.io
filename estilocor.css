@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.tex{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 100px;
+}
+
+.cor1{
+  position: relative;
+  top: 200px;
+  left: 200px;
+}
+
+.cor2{
+    position: relative;
+    top:0px;
+    left: 600px;
+  }
+
+  .cor3{
+    position: relative;
+    bottom: 205px;
+    left: 1000px;
+  }
+
+
+  .profes{
+    background-color: rgb(230, 252, 236);
+    font-size:small;
+    height: 70px;
+    width: 200px;
+   }
+
+
+  .primero{
+    position: relative;
+    bottom:200px;
+    left: 200px;
+}
+.segundo{
+  position: relative;
+  bottom: 270px;
+  left: 600px;
+}
+.tercero{
+  position: relative;
+  bottom: 350px;
+  left: 1000px;
+}
+
+  
